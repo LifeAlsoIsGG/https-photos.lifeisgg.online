@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://photosbed.lifeisgg.online</id>
     <title>LifeAlsoIsGG&apos;s photos</title>
-    <updated>2020-05-21T12:36:03.993Z</updated>
+    <updated>2020-07-01T16:36:41.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://photosbed.lifeisgg.online"/>
     <link rel="self" href="https://photosbed.lifeisgg.online/atom.xml"/>
@@ -15,12 +15,26 @@
     <icon>https://photosbed.lifeisgg.online/favicon.ico</icon>
     <rights>All rights reserved 2020, LifeAlsoIsGG&apos;s photos</rights>
     <entry>
+        <title type="html"><![CDATA[在广州实训基地的夜景-1]]></title>
+        <id>https://photosbed.lifeisgg.online/post/zai-guang-zhou-shi-xun-ji-di-de-ye-jing-1/</id>
+        <link href="https://photosbed.lifeisgg.online/post/zai-guang-zhou-shi-xun-ji-di-de-ye-jing-1/">
+        </link>
+        <updated>2020-07-01T16:33:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在广州实训基地的夜景-2]]></title>
+        <id>https://photosbed.lifeisgg.online/post/zai-guang-zhou-shi-xun-ji-di-de-ye-jing-2/</id>
+        <link href="https://photosbed.lifeisgg.online/post/zai-guang-zhou-shi-xun-ji-di-de-ye-jing-2/">
+        </link>
+        <updated>2020-07-01T16:32:08.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[白云与高楼]]></title>
         <id>https://photosbed.lifeisgg.online/post/bai-yun-yu-gao-lou/</id>
         <link href="https://photosbed.lifeisgg.online/post/bai-yun-yu-gao-lou/">
         </link>
         <updated>2020-04-30T08:00:41.000Z</updated>
-        <content type="html"><![CDATA[<p>从家中阳台的角度望向本市最高的摩天大厦壹中心，无垠的蓝天有一片白云正好垂直切过高楼顶端</p>
+        <content type="html"><![CDATA[<p>那是本市最高的摩天大厦壹中心，此时无垠的蓝天有一片白云正好垂直切过高楼</p>
 ]]></content>
     </entry>
     <entry>
@@ -76,24 +90,6 @@
         </link>
         <updated>2020-03-15T15:47:59.000Z</updated>
         <content type="html"><![CDATA[<p>疫情后期实在憋不住了无论如何都想走走，而选择三亚的原因是靠近南端而且坐飞机过去超便宜，于是几个小伙伴说走就走。在三亚的六天五晚基本是白天睡懒觉，下午出海，傍晚去吃海鲜，晚上到沙滩走走逛逛小酒吧，最后回来拎些啤酒回来在阳台吹水(海景房真的好舒服啊)。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三亚-呀诺达热带雨林]]></title>
-        <id>https://photosbed.lifeisgg.online/post/san-ya-10/</id>
-        <link href="https://photosbed.lifeisgg.online/post/san-ya-10/">
-        </link>
-        <updated>2020-03-15T15:47:32.000Z</updated>
-        <content type="html"><![CDATA[<p>商业化过度，没想象那么好玩。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三亚-凤凰岛]]></title>
-        <id>https://photosbed.lifeisgg.online/post/san-ya-11/</id>
-        <link href="https://photosbed.lifeisgg.online/post/san-ya-11/">
-        </link>
-        <updated>2020-03-15T15:47:19.000Z</updated>
-        <content type="html"><![CDATA[<p>在鹿回头风景区俯瞰三亚湾，中间突出的部分是填海造地出来的凤凰岛。</p>
 ]]></content>
     </entry>
 </feed>
