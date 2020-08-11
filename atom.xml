@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://photosbed.lifeisgg.online</id>
     <title>LifeAlsoIsGG&apos;s photos</title>
-    <updated>2020-07-01T16:36:41.564Z</updated>
+    <updated>2020-08-11T13:57:05.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://photosbed.lifeisgg.online"/>
     <link rel="self" href="https://photosbed.lifeisgg.online/atom.xml"/>
@@ -14,6 +14,40 @@
     <logo>https://photosbed.lifeisgg.online/images/avatar.png</logo>
     <icon>https://photosbed.lifeisgg.online/favicon.ico</icon>
     <rights>All rights reserved 2020, LifeAlsoIsGG&apos;s photos</rights>
+    <entry>
+        <title type="html"><![CDATA[广州游-珠江新城]]></title>
+        <id>https://photosbed.lifeisgg.online/post/guang-zhou-you-zhu-jiang-xin-cheng/</id>
+        <link href="https://photosbed.lifeisgg.online/post/guang-zhou-you-zhu-jiang-xin-cheng/">
+        </link>
+        <updated>2020-08-11T13:35:34.000Z</updated>
+        <content type="html"><![CDATA[<p>来广州找工作，然后去了在珠江新城的面试，然后顺便就逛了逛附近。不得不说珠江新城比我想象的还要繁华。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广州游-在广州塔107层/408米]]></title>
+        <id>https://photosbed.lifeisgg.online/post/guang-zhou-you-zai-guang-zhou-ta-107-ceng-408-mi/</id>
+        <link href="https://photosbed.lifeisgg.online/post/guang-zhou-you-zai-guang-zhou-ta-107-ceng-408-mi/">
+        </link>
+        <updated>2020-08-11T13:31:38.000Z</updated>
+        <content type="html"><![CDATA[<p>一开始150的门票价格直接劝退，后来在美团上看到学生半价，正好学生证随身带着😏，于是果断下单。不过由于赶着回去，便错过了在广州塔的夜景。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广州游-和广州塔合个照]]></title>
+        <id>https://photosbed.lifeisgg.online/post/guang-zhou-you-he-guang-zhou-ta-he-ge-zhao/</id>
+        <link href="https://photosbed.lifeisgg.online/post/guang-zhou-you-he-guang-zhou-ta-he-ge-zhao/">
+        </link>
+        <updated>2020-08-11T13:30:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来两杯奥利奥星冰乐吧]]></title>
+        <id>https://photosbed.lifeisgg.online/post/lai-liang-bei-ao-li-ao-xing-bing-le-ba/</id>
+        <link href="https://photosbed.lifeisgg.online/post/lai-liang-bei-ao-li-ao-xing-bing-le-ba/">
+        </link>
+        <updated>2020-07-10T13:27:36.000Z</updated>
+        <content type="html"><![CDATA[<p>第一次喝星巴克，第一次用&quot;准考证&quot;喝买一送一的星冰乐</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在广州实训基地的夜景-1]]></title>
         <id>https://photosbed.lifeisgg.online/post/zai-guang-zhou-shi-xun-ji-di-de-ye-jing-1/</id>
@@ -27,6 +61,15 @@
         <link href="https://photosbed.lifeisgg.online/post/zai-guang-zhou-shi-xun-ji-di-de-ye-jing-2/">
         </link>
         <updated>2020-07-01T16:32:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do not go gentle in that good night]]></title>
+        <id>https://photosbed.lifeisgg.online/post/do-not-go-gentle-in-that-good-night/</id>
+        <link href="https://photosbed.lifeisgg.online/post/do-not-go-gentle-in-that-good-night/">
+        </link>
+        <updated>2020-05-30T13:53:01.000Z</updated>
+        <content type="html"><![CDATA[<p>不要温和地走进那个良夜</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[白云与高楼]]></title>
@@ -51,45 +94,6 @@
         </link>
         <updated>2020-04-27T10:25:30.000Z</updated>
         <content type="html"><![CDATA[<p>有一双幽蓝色的双眼</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[半岛一号别墅区]]></title>
-        <id>https://photosbed.lifeisgg.online/post/ban-dao-yi-hao-bie-shu-qu/</id>
-        <link href="https://photosbed.lifeisgg.online/post/ban-dao-yi-hao-bie-shu-qu/">
-        </link>
-        <updated>2020-04-27T10:24:45.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疫情下的每一天]]></title>
-        <id>https://photosbed.lifeisgg.online/post/yi-qing-xia-mei-yi-tian-de-zhen-shi-xie-zhao/</id>
-        <link href="https://photosbed.lifeisgg.online/post/yi-qing-xia-mei-yi-tian-de-zhen-shi-xie-zhao/">
-        </link>
-        <updated>2020-04-25T15:34:07.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川剧cosplayⅠ]]></title>
-        <id>https://photosbed.lifeisgg.online/post/chuan-ju-cosplayii/</id>
-        <link href="https://photosbed.lifeisgg.online/post/chuan-ju-cosplayii/">
-        </link>
-        <updated>2020-04-25T12:28:58.000Z</updated>
-        <content type="html"><![CDATA[<p>只是化了妆，没想到外公外婆当年的精气神还在。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川剧cosplayⅡ]]></title>
-        <id>https://photosbed.lifeisgg.online/post/chuan-ju-cosplayi/</id>
-        <link href="https://photosbed.lifeisgg.online/post/chuan-ju-cosplayi/">
-        </link>
-        <updated>2020-04-25T12:25:35.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三亚]]></title>
-        <id>https://photosbed.lifeisgg.online/post/san-ya-1/</id>
-        <link href="https://photosbed.lifeisgg.online/post/san-ya-1/">
-        </link>
-        <updated>2020-03-15T15:47:59.000Z</updated>
-        <content type="html"><![CDATA[<p>疫情后期实在憋不住了无论如何都想走走，而选择三亚的原因是靠近南端而且坐飞机过去超便宜，于是几个小伙伴说走就走。在三亚的六天五晚基本是白天睡懒觉，下午出海，傍晚去吃海鲜，晚上到沙滩走走逛逛小酒吧，最后回来拎些啤酒回来在阳台吹水(海景房真的好舒服啊)。</p>
 ]]></content>
     </entry>
 </feed>
